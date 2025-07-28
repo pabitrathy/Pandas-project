@@ -6,12 +6,37 @@ This repository contains data cleaning and analysis projects done using **Pandas
 
 ### 1. Employees Dataset
 Tasks Completed:
-- ✔ Filled missing `Salary` values using the average salary.
-- ✔ Calculated **average salary by department** using `groupby`.
-- ✔ Filtered and displayed employees who **joined after 2021** using datetime conversion.
+1. Filled missing `Salary` values using the average salary.
+2. Calculated **average salary by department** using `groupby`.
+3. Filtered and displayed employees who **joined after 2021** using datetime conversion.
 
 ### 2. Sales Dataset
 Tasks Completed:
-- ✔ Created a new column `Total_Amount` = `Quantity × Price`.
-- ✔ Grouped by **Category** and calculated **total sales per category**.
-- ✔ Sorted and displayed the **top 3 most expensive products**.
+1. Created a new column `Total_Amount` = `Quantity × Price`.
+2. Grouped by **Category** and calculated **total sales per category**.
+3. Sorted and displayed the **top 3 most expensive products**.
+
+---
+
+## 📁 Second Project
+
+### 3. Students Dataset
+Tasks Completed:
+1. Filter all students from the **CS department**
+2. Calculate the **average marks per department**
+3. Show students who **joined after 2022**
+4. Add a new column `Grade`:
+   - ≥90 → A
+   - 75–89 → B
+   - <75 → C
+5. Convert `Join_Date` to datetime and **extract the year**
+
+### 4. Orders Dataset
+Tasks Completed:
+1. Create a new column: `Total_Amount = Quantity × Price`
+2. Show **total sales by category**
+3. Show all orders **after May 2023**
+4. Find the **top 2 customers** by total amount spent
+5. Sort the orders by `Order_Date` (newest first)
+
+---
