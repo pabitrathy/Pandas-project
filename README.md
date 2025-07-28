@@ -2,7 +2,7 @@ This repository contains data cleaning and analysis projects done using **Pandas
 
 ---
 
-## 📁 Datasets Covered
+## 📁 First Project
 
 ### 1. Employees Dataset
 Tasks Completed:
