@@ -40,3 +40,22 @@ Tasks Completed:
 5. Sort the orders by `Order_Date` (newest first)
 
 ---
+
+## 📁 Third Project
+
+### Students.csv
+1. Replaced missing `Total_Marks` with average marks
+2. Filtered students who passed and scored more than 80
+3. Calculated average marks per department
+4. Counted number of students who passed vs failed
+5. Created a new column `Performance`
+
+### Orders.csv
+1. Converted `Order_Date` to datetime & extracted month
+2. Created `Total_Amount = Quantity × Unit_Price`
+3. Calculated total sales per category
+4. Displayed top 5 products by revenue
+5. Counted number of orders per month
+
+---
+
