@@ -1,0 +1,9 @@
+Name,Department,Grade,Total_Marks,Passed
+Alice,Science,A,92.0,Yes
+Bob,Commerce,B,78.0,Yes
+Charlie,Science,A,,Yes
+David,Arts,C,65.0,No
+Eva,Commerce,B,80.0,Yes
+Frank,Arts,C,,No
+Grace,Science,A,95.0,Yes
+Hannah,Commerce,B,88.0,Yes

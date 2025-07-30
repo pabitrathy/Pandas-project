@@ -1,0 +1,9 @@
+Order_ID,Customer,Product,Category,Quantity,Unit_Price,Order_Date
+101,John,Laptop,Electronics,1,70000,2023-01-15
+102,Alice,Phone,Electronics,2,30000,2023-02-10
+103,Bob,Tablet,Electronics,1,20000,2023-03-05
+104,David,Laptop,Electronics,1,75000,2023-04-12
+105,Eva,Camera,Photography,1,40000,2023-01-25
+106,Frank,Phone,Electronics,2,32000,2023-03-18
+107,Grace,Tablet,Electronics,3,21000,2023-05-20
+108,Hannah,Camera,Photography,1,39000,2023-06-01
